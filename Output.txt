@@ -1,0 +1,40 @@
+The Magic words are:
+
+--------------------
+
+rosebud
+
+programming
+
+rainbow
+
+fish
+
+hashtag
+
+tweet
+
+
+Bob said, "What am I doing here?"
+
+Bummer Bob!  You lost the game by missing some words.
+
+Here are the words that you missed
+
+
+rosebud
+
+programming
+
+rainbow
+
+fish
+
+hashtag
+
+tweet
+
+
+Mary said, "I am about to tweet hashtag rainbow fish and by the way, did you write the new programming assignment named rosebud?"
+
+Great job Mary!!!  You won the game!!!
